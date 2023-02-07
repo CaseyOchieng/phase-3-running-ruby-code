@@ -24,3 +24,4 @@ puts add(1,3) + add(2,2)
 
  puts "Hello World!"
  print "Pass this test, please."
+ p [1,2,3]
